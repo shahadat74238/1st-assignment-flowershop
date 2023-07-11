@@ -16,6 +16,9 @@
   font-weight: 700;
   box-shadow: 5px 5px 10px 0px gray;
 }
+span {
+  color: #e55473;
+}
 
 /* header banner related style  */
 .header-banner {
@@ -197,6 +200,35 @@
   box-shadow: 5px 5px 10px 0px gray;
 }
 /* Instagram related style ended */
+
+/* bonuse section related style started */
+.flower-collections-container {
+  height: 500px;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  background: #e554730d;
+}
+.collections-title{
+  font-size: 48px;
+  font-weight: 800;
+  padding-bottom: 25px;
+}
+.collections-des{
+  color: #27272799;
+  text-align: center;
+  padding-bottom: 25px;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 30px;
+
+}
+
+.collection-photo {
+  height: 400px;
+  border-radius: 10px;
+}
+/* bonuse section related style enden */
 
 /* Deals section related style started */
 .deals-container {
