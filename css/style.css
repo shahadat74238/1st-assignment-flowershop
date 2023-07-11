@@ -77,13 +77,14 @@ span {
 .flower-container {
   display: flex;
   justify-content: space-between;
-  gap: 25px;
+  /* gap: 25px; */
 }
 .flower-box {
   width: 400px;
   height: 400px;
   text-align: center;
   border-radius: 300px 300px 0px 0px;
+  margin: 25px;
 }
 .f-box-1 {
   background: #a7216226;
