@@ -209,6 +209,7 @@ span {
   align-items: center;
   justify-content: space-around;
   background: #e554730d;
+  padding: 0 10%;
 }
 .collections-title{
   font-size: 48px;
