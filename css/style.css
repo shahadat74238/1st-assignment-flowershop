@@ -206,6 +206,7 @@ span {
 .flower-collections-container {
   height: 500px;
   display: flex;
+  gap: 50px;
   align-items: center;
   justify-content: space-around;
   background: #e554730d;
